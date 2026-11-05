@@ -1,1 +1,1 @@
-# Scientific_computing
+# SCIENTIFIC COMPUTING
