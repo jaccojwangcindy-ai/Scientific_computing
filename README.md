@@ -1,7 +1,7 @@
 # SCIENTIFIC COMPUTING
 # Numerical Methods and Scientific Computing in Python
 
-This collection of examples introduces fundamental concepts in Numerical Methods, Scientific Computing, and NumPy/SciPy. Each example demonstrates a mathematical idea and how it can be implemented in Python.
+This collection of examples introduces fundamental concepts in Numerical Methods, Scientific Computing, and NumPy/SciPy/Matplotlib. Each example demonstrates a mathematical idea and how it can be implemented in Python.
 
 # Topics covered:
 
