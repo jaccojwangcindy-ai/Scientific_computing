@@ -43,3 +43,4 @@ This collection of examples introduces fundamental concepts in Numerical Methods
 
 19.Monte Carlo Simulation for π
 
+These topics form the foundation of Numerical Methods, Scientific Computing, Data Science, Machine Learning, and Engineering Computation in Python.
