@@ -34,7 +34,7 @@ Steps:
 Eliminate x.
 Eliminate y.
 Solve for z.
-Perform back-substitution.
+Perform back-substitution. 
 
 7.Convergence of Iterative Methods
 An iterative method converges when successive approximations get closer to the true value.
